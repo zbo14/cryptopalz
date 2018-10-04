@@ -1,0 +1,13 @@
+{
+  "name": "cryptopalz",
+  "version": "0.0.0",
+  "scripts": {
+    "test": "NODE_ENV=test nyc mocha --exit"
+  },
+  "author": "Zachary Balder",
+  "license": "Unlicense",
+  "devDependencies": {
+    "mocha": "5.2.0",
+    "nyc": "13.0.1"
+  }
+}
